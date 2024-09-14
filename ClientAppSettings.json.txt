@@ -1,0 +1,19 @@
+{
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FStringWhitelistVerifiedUserId": "4192452350",
+  "FLogNetwork": "7",
+  "DFIntConnectionMTUSize": "900",
+  "DFIntTaskSchedulerTargetFps": "240",
+  "FFlagDisableNewIGMinDUA": "True",
+  "FFlagEnableInGameMenuControls": "False",
+  "FFlagEnableInGameMenuModernization": "False",
+  "FFlagEnableMenuControlsABTest": "False",
+  "FFlagEnableMenuModernizationABTest": "False",
+  "FFlagEnableMenuModernizationABTest2": "False",
+  "FFlagEnableV3MenuABTest3": "False",
+  "FFlagFixGraphicsQuality": "True",
+  "FFlagDebugGraphicsPreferVulkan": "True",
+  "FFlagDebugGraphicsPreferOpenGL": "True",
+  "FFlagDebugGraphicsPreferD3D11FL10": "True",
+  "FFlagDebugGraphicsPreferD3D11": "True"
+}
