@@ -1,4 +1,5 @@
 {
+  "FFlagHandleAltEnterFullscreenManually": "False",
   "DFIntConnectionMTUSize": "900",
   "DFIntTaskSchedulerTargetFps": "120",
   "FFlagDebugGraphicsPreferD3D11": "True"
