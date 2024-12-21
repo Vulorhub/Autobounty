@@ -1,4 +1,0 @@
-_G.JoinTeam = "Marine"
-_G.Key = "FPNC3-SQN05-VKM9H" 
-_G.DiscordId = "1286663127278026763" 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Natsuhanaki/Royx_PC/main/loader.lua"))();
