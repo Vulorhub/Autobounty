@@ -3,10 +3,9 @@
   "FIntTerrainArraySliceSize": "0",
   "FFlagDisablePostFx": "True",
   "FIntRenderShadowIntensity": "0",
-  "DFIntTaskSchedulerTargetFps": "120",
+  "DFIntTaskSchedulerTargetFps": "144",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "DFIntConnectionMTUSize": "900",
-  "FFlagDebugGraphicsPreferVulkan": "True",
   "FFlagDebugGraphicsPreferOpenGL": "True",
   "FFlagDebugGraphicsPreferD3D11": "True"
 }
